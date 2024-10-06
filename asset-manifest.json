@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ws101_react_landingpage_Mark/static/css/main.36ee3365.css",
+    "main.js": "/ws101_react_landingpage_Mark/static/js/main.aad35a31.js",
+    "static/media/backgound_image3.jpg": "/ws101_react_landingpage_Mark/static/media/backgound_image3.5e88b4965def8e090cc5.jpg",
+    "index.html": "/ws101_react_landingpage_Mark/index.html",
+    "main.36ee3365.css.map": "/ws101_react_landingpage_Mark/static/css/main.36ee3365.css.map",
+    "main.aad35a31.js.map": "/ws101_react_landingpage_Mark/static/js/main.aad35a31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ee3365.css",
+    "static/js/main.aad35a31.js"
+  ]
+}
