@@ -1,0 +1,31 @@
+.about-section {
+    padding: 400px 20px;
+    background: #f4f4f4;
+    background-color: #fff3cd;
+    text-align: center;
+    border: 2px solid #ffc107;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.about-section h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #856404;
+}
+
+.about-section p {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+.about-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.about-section li {
+    font-size: 1.1em;
+    margin: 10px 0;
+    position: center;
+}
